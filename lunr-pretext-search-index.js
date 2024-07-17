@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "body": " Section Title  Text of section.   Two Sage plots on one set of axes   f(x) = x^4 g(x) = -x^4 up = plot(f, (x, -1.5, 1.5), color='blue', thickness=2) down = plot(g, (x, -1.5, 1.5), color='red', thickness=2) up + down    "
+},
+{
+  "id": "figure-sage-double-plot-2",
+  "level": "2",
+  "url": "sec-section-name.html#figure-sage-double-plot-2",
+  "type": "Figure",
+  "number": "1.1.1",
+  "title": "",
+  "body": " Two Sage plots on one set of axes   f(x) = x^4 g(x) = -x^4 up = plot(f, (x, -1.5, 1.5), color='blue', thickness=2) down = plot(g, (x, -1.5, 1.5), color='red', thickness=2) up + down   "
 },
 {
   "id": "backmatter-2",
