@@ -7,9 +7,9 @@
     <p>Example Sage plot image. </p>
   </introduction>
 
-  <figure xml:id="figure-sage-double-plot">
+  <figure xml:id="figure-sage-double-plot-1">
     <caption>Two Sage plots on one set of axes</caption>
-    <image xml:id="sageplot-updown" width="45%">
+    <image xml:id="sageplot-updown-1" width="45%">
       <sagemath>
       f(x) = x^4
       g(x) = -x^4
